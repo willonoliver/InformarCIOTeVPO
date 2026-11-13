@@ -18,6 +18,7 @@ Abaixo, uma captura de tela da aplicação em funcionamento, demonstrando a inte
 
 ![InformarCIOTeVPO - Interface principal](Docs/Imagens/InformaCIOTeVPO.png)
 
+
 *Interface principal do InformarCIOTeVPO com um MDF-e carregado e os dados de CIOT e VPO preenchidos.*
 
 ## Escopo e responsabilidades
