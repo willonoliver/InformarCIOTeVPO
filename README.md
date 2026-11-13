@@ -101,8 +101,6 @@ Essas operações continuam sob responsabilidade do sistema TMS e dos serviços 
 - [Portal Nacional do MDF-e](https://www.mdfe.fazenda.gov.br/portal/)
 - [CONFAZ – Legislação](https://www.confaz.fazenda.gov.br/legislacao)
 
-**Observação:** mantenha a aplicação atualizada conforme as Notas Técnicas, os esquemas XML e as regras de validação vigentes.
-
 ---
 
 **InformarCIOTeVPO**  
