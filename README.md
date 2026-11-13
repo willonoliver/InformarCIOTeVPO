@@ -16,7 +16,7 @@ O objetivo é facilitar a adequação dos arquivos XML às exigências de preenc
 
 Abaixo, uma captura de tela da aplicação em funcionamento, demonstrando a interface de edição do MDF-e, com identificação do documento e preenchimento das informações de CIOT e Vale-Pedágio Obrigatório.
 
-![InformarCIOTeVPO - Interface principal](Docs/imagens/InformarCIOTeVPO.png)
+![InformarCIOTeVPO - Interface principal](Docs/Imagens/InformaCIOTeVPO.png)
 
 *Interface principal do InformarCIOTeVPO com um MDF-e carregado e os dados de CIOT e VPO preenchidos.*
 
